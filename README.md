@@ -10,6 +10,8 @@ A simple Flutter app for calculating Body Mass Index (BMI). Users can enter thei
 - Shows the normal weight range for the entered height.
 - Error handling for invalid inputs.
 
+## Youtube Link: https://youtu.be/trL91FnfEhM
+
 ## Screenshots
 
 | Home Screen                                |
@@ -19,4 +21,6 @@ A simple Flutter app for calculating Body Mass Index (BMI). Users can enter thei
 | Result Screen                                |
 |--------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/9c1f96b9-2851-4226-826b-1ee8e553da11) |
+
+
 
